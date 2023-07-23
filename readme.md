@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This is a Roman coin detection project using digital image processing. The aim of this project is to distinguish a gold coin from a bronze coin in pictures using a computer algorithm
+This is a Roman coin detection project using digital image processing. The aim of this project is to distinguish a gold coin from a bronze coin in pictures using a computer algorithm.
 
 ## Features
 1. Dataset Training and Testing
